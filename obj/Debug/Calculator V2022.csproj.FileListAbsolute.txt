@@ -1,0 +1,15 @@
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\Calculator V2022.exe.config
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\Calculator V2022.exe
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\Calculator V2022.pdb
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\FlatUI.dll
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.csproj.AssemblyReference.cache
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator_V2022.Form1.resources
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator_V2022.Properties.Resources.resources
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.csproj.GenerateResource.cache
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.csproj.CoreCompileInputs.cache
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.csproj.CopyComplete
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.exe
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\obj\Debug\Calculator V2022.pdb
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\eren_\source\repos\Calculator V2022\Calculator V2022\bin\Debug\Control.Draggable.dll
